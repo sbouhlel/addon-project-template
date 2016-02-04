@@ -36,6 +36,12 @@
     <module>war</module>
     <module>addon</module>
   </modules>
+  <scm>
+    <connection>scm:git:git://github.com/exodev/lecko.git</connection>
+    <developerConnection>scm:git:git@github.com:exodev/lecko.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>https://github.com/exodev/lecko</url>
+  </scm>
   <properties>
     <platform.version>4.3.0</platform.version>
   </properties>
