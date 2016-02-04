@@ -1,4 +1,4 @@
-Lecko Analytics Add-on
+SDP Demo Extension
 =======
 
-Lecko Analytics (http://analytics.lecko.fr) integration for eXo Platform
+SDP (Solution Development Prompte) Demo Extension, based on predefined scenario.

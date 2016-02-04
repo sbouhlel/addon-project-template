@@ -22,14 +22,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <artifactId>lecko-parent</artifactId>
-    <groupId>org.exoplatform.addons.lecko</groupId>
+    <artifactId>sdp-demo-extension</artifactId>
+    <groupId>org.exoplatform.addons.demo</groupId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>lecko-war</artifactId>
+  <artifactId>sdp-demo-extension-war</artifactId>
   <packaging>war</packaging>
-  <name>Lecko Analytics Add-on - Webapp</name>
+  <name>SDP Demo Extension - Webapp</name>
   <build>
-    <finalName>lecko-extension</finalName>
+    <finalName>sdp-demo-extension-extension</finalName>
   </build>
 </project>
