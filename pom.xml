@@ -38,7 +38,7 @@
     <module>addon</module>
   </modules>
   <properties>
-    <platform.version>4.3.0</platform.version>
+    <platform.version>4.2.0</platform.version>
   </properties>
   <dependencyManagement>
     <dependencies>
