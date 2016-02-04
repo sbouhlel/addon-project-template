@@ -17,12 +17,6 @@
       <type>war</type>
       <scope>provided</scope>
     </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>lecko-config</artifactId>
-      <version>1.0-SNAPSHOT</version>
-      <scope>provided</scope>
-    </dependency>
   </dependencies>
   <build>
     <finalName>lecko-addon</finalName>
