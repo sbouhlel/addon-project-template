@@ -46,7 +46,7 @@
           <field name="dependencies">
             <collection type="java.util.ArrayList">
               <value>
-                <string>sdp-demo-extension</string>
+                <string>@@@artifactId@@@</string>
               </value>
             </collection>
           </field>

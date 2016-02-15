@@ -1,4 +1,4 @@
-SDP Demo Extension
+@@@name@@@
 =======
 
-SDP (Solution Development Prompte) Demo Extension, based on predefined scenario.
+@@@description@@@
