@@ -33,6 +33,7 @@
   <name>@@@name@@@</name>
   <description>@@@description@@@</description>
   <modules>
+    <module>services</module>
     <module>war</module>
     <module>packaging</module>
   </modules>
