@@ -1,6 +1,5 @@
 package org.exoplatform.addons.services;
 
-import org.exoplatform.addons.MyStartableService;
 import org.exoplatform.services.log.ExoLogger;
 import org.exoplatform.services.log.Log;
 
@@ -15,7 +14,7 @@ public class MyService {
   /**
    * The logger.
    */
-  private static final Log LOG = ExoLogger.getExoLogger(MyStartableService.class);
+  private static final Log LOG = ExoLogger.getExoLogger(MyService.class);
 
 
   public MyService() {
