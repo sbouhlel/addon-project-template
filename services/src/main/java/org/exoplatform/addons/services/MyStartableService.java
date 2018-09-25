@@ -1,4 +1,4 @@
-package org.exoplatform.addons;
+package org.exoplatform.addons.services;
 
 import org.exoplatform.container.ExoContainerContext;
 import org.exoplatform.container.PortalContainer;

@@ -1,5 +1,6 @@
-package org.exoplatform.addons;
+package org.exoplatform.addons.services;
 
+import org.exoplatform.addons.MyStartableService;
 import org.exoplatform.services.log.ExoLogger;
 import org.exoplatform.services.log.Log;
 

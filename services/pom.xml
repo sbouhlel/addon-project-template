@@ -26,6 +26,21 @@
       <artifactId>exo.kernel.container</artifactId>
       <version>${platform.version}</version>
     </dependency>
+    <dependency>
+      <groupId>org.exoplatform.commons</groupId>
+      <artifactId>commons-api</artifactId>
+      <version>${platform.version}</version>
+    </dependency>
+      <dependency>
+          <groupId>org.exoplatform.social</groupId>
+          <artifactId>social-component-core-jpa</artifactId>
+          <version>5.0.0-RC13</version>
+      </dependency>
+      <dependency>
+          <groupId>org.exoplatform.social</groupId>
+          <artifactId>social-component-core-jpa</artifactId>
+          <version>5.0.0-RC13</version>
+      </dependency>
   </dependencies>
   <name>Training Exercise - Services</name>
   <build>
