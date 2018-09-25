@@ -18,10 +18,8 @@ public class FavouriteActivity {
     @Column(name = "ID")
     private Long id;
     @ManyToOne
-    @Column(name = "FAVOURITE_BY_ID")
     private IdentityEntity favouriteBy;
     @ManyToOne
-    @Column(name = "ACTIVITY_ID")
     private ActivityEntity activity;
 
     @Temporal(value = TemporalType.TIMESTAMP)
