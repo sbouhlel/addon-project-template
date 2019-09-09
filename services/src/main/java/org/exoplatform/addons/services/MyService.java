@@ -24,4 +24,9 @@ public class MyService {
   public void call() {
     LOG.info("######################  call function invoked !!");
   }
+  public String getMessage() {
+    return message;
+  }
+
+  private String message = "Bonjour eXo";
 }
